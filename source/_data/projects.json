@@ -1,0 +1,12 @@
+[
+    {
+       "name":"rustonomicon_zh-CN",
+       "url":"https://github.com/tjxing/rustonomicon_zh-CN",
+       "desc":"Rust死灵书(Rustonomicon)简体中文翻译"
+    },
+    {
+       "name":"pixel-hero",
+       "url":"https://github.com/tjxing/pixel-hero",
+       "desc":"A web-based NES emulator in WebAssembly"
+    }
+]

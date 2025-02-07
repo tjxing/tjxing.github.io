@@ -8,7 +8,7 @@ subtitle: ''
 description: 'DO SOMETHING USELESS BUT FUN'
 keywords:
 author: tjxing
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -102,6 +102,4 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: 'https://github.com/tjxing/tjxing.github.io'
-  branch: 'web'
+  type: ''
